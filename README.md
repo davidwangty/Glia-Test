@@ -1,8 +1,6 @@
 # Glia-Test
 
-Web is in the folder mysite.
-
-And the website that anyone can see is at  http://davidwangty.pythonanywhere.com/
+The website is in the folder of mysite.
 
 Answer.txt is the answer of each puzzle.
 
